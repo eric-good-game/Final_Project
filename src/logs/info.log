@@ -855,3 +855,26 @@
 {"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 23:27:50"}
 {"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 23:30:07"}
 {"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 23:30:10"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-03 12:03:10"}
+{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.coderhouse.q5mhnd3.mongodb.net","level":"error","message":"querySrv ECONNREFUSED _mongodb._tcp.coderhouse.q5mhnd3.mongodb.net","service":"your-service-name","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.coderhouse.q5mhnd3.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)","syscall":"querySrv","timestamp":"2023-01-03 12:03:10"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-03 12:03:34"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-03 12:03:34"}
+{"level":"info","message":"user connected","service":"your-service-name","timestamp":"2023-01-03 12:03:45"}
+{"level":"error","message":"User not found","service":"your-service-name","timestamp":"2023-01-03 12:03:54"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-03 12:07:22"}
+{"level":"info","message":"user connected","service":"your-service-name","timestamp":"2023-01-03 12:07:23"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-03 12:07:40"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-03 12:07:42"}
+{"level":"info","message":"user connected","service":"your-service-name","timestamp":"2023-01-03 12:07:45"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-03 12:07:46"}
+{"level":"info","message":"user connected","service":"your-service-name","timestamp":"2023-01-03 12:07:46"}
+{"level":"error","message":"User not found","service":"your-service-name","timestamp":"2023-01-03 12:07:53"}
+{"level":"info","message":{"accountSid":"AC3a15cb8a90cb20e3236ee3a51f17238f","amount":null,"channel":"sms","dateCreated":"2023-01-03T18:12:57.000Z","dateUpdated":"2023-01-03T18:12:58.000Z","lookup":{"carrier":null},"payee":null,"sendCodeAttempts":[{"attempt_sid":"VLd2ceae90dbe8585c03e8ef3f6300a095","channel":"sms","time":"2023-01-03T18:12:57.976Z"}],"serviceSid":"VAbc1a4568f70a0bcdec0a87e4278180f4","sid":"VE39ee4c1bd3666b5926bdc414f523bf9f","status":"pending","to":"+523314069592","url":"https://verify.twilio.com/v2/Services/VAbc1a4568f70a0bcdec0a87e4278180f4/Verifications/VE39ee4c1bd3666b5926bdc414f523bf9f","valid":false},"service":"your-service-name","timestamp":"2023-01-03 12:12:58"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":501,"messageId":"<a89b3eff-54fe-eb94-1051-4ad2d3eb3c39@localhost>","messageSize":1345,"messageTime":719,"rejected":[],"response":"250 2.0.0 OK  1672769596 u20-20020a056871059400b00140d421445bsm14584060oan.11 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-03 12:13:16"}
+{"level":"info","message":"Getting cart with id: 63b4703af9db5969734b8f35","service":"your-service-name","timestamp":"2023-01-03 12:13:27"}
+{"level":"info","message":"Getting cart with id: 63b4703af9db5969734b8f35","service":"your-service-name","timestamp":"2023-01-03 12:13:44"}
+{"level":"info","message":"Getting cart with id: 63b4703af9db5969734b8f35","service":"your-service-name","timestamp":"2023-01-03 12:14:20"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-03 12:14:28"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-03 12:29:53"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-03 12:29:55"}
+{"level":"info","message":"user connected","service":"your-service-name","timestamp":"2023-01-03 12:29:59"}
