@@ -1,0 +1,857 @@
+{"additional":"properties","are":"passed along","level":"info","message":"Pass an object and this works","service":"your-service-name","timestamp":"2023-01-02 12:59:41"}
+{"level":"info","message":"Use a helper method if you want","service":"your-service-name","timestamp":"2023-01-02 12:59:41"}
+{"level":"error","message":"Use a helper method if you want","service":"your-service-name","timestamp":"2023-01-02 12:59:41"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 12:59:43"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:00:35"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:01:13"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:01:34"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:02:20"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:02:21"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:02:30"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:02:31"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:02:51"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:02:52"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:02:55"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:02:55"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:02:59"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:03:07"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:03:08"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:03:10"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:03:10"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:03:11"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:03:21"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:03:21"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:03:24"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:03:33"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:03:34"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:03:34"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:03:41"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:03:42"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:03:42"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:03:45"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:03:46"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:03:48"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:03:49"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:03:54"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:03:55"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:03:55"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:03:58"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:03:59"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:04:02"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:04:02"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:04:02"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:04:27"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:04:28"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:04:29"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:04:51"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:04:52"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:04:52"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:05:16"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:05:17"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:05:17"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:05:26"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:05:26"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:05:27"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:05:39"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:05:40"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:05:40"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:05:46"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:05:46"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:05:49"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:05:52"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:05:53"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:05:57"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:05:58"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:06:01"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:06:02"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:06:02"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:06:04"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:06:05"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:06:05"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:06:08"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:06:09"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:06:12"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:06:13"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:06:16"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:06:16"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:06:17"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:06:28"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:06:29"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:06:31"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:07:09"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:07:10"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:07:10"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:29:46"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:29:48"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:29:49"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 13:30:05"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:30:05"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":297,"messageId":"<9e0c42f4-8a3d-64a1-89ec-e6903d4de4ab@localhost>","messageSize":1290,"messageTime":725,"rejected":[],"response":"250 2.0.0 OK  1672687832 m2-20020a4add02000000b004a3d98b2ccdsm11528556oou.42 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 13:30:32"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 13:30:42"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:30:43"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:34:36"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:34:37"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:34:37"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:35:12"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:35:13"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:35:13"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:36:05"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:36:06"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:36:07"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 13:36:08"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:36:08"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:36:47"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:36:48"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:36:49"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:37:03"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:37:04"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:37:04"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:37:32"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:37:33"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:37:34"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:38:03"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:38:04"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:38:07"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":293,"messageId":"<b6cdaf77-d782-a518-78d0-5fe3188affde@localhost>","messageSize":1192,"messageTime":686,"rejected":[],"response":"250 2.0.0 OK  1672688300 h11-20020a056870d24b00b00150aca072e8sm1791765oac.38 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 13:38:20"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:38:38"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:38:39"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:38:39"}
+{"level":"info","message":{"accepted":["zlgtss@gmail.com","ericgg14@gmail.com"],"envelope":{"from":"","to":["zlgtss@gmail.com","ericgg14@gmail.com"]},"envelopeTime":401,"messageId":"<4239cb65-d598-a303-e324-37d742772208@localhost>","messageSize":1230,"messageTime":545,"rejected":[],"response":"250 2.0.0 OK  1672688333 o10-20020a4abe8a000000b004a0ad937ccdsm11577299oop.1 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 13:38:53"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 13:40:45"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:40:45"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 13:41:13"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:41:13"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:48:16"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:48:16"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:48:17"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 13:48:19"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:48:19"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 13:49:46"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:49:46"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:50:00"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 13:50:01"}
+{"level":"error","message":"Can't save() the same doc multiple times in parallel. Document: 63b3358bf21985c558321d33","service":"your-service-name","stack":"ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 63b3358bf21985c558321d33\n    at model.Model.save (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/mongoose/lib/model.js:500:20)\n    at AuthService.signup (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/src/services/auth.service.ts:20:16)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async AuthController.signup (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/src/controllers/auth.controller.ts:20:20)","timestamp":"2023-01-02 13:50:36"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:51:08"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:51:09"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:51:09"}
+{"level":"error","message":"User already exists","service":"your-service-name","timestamp":"2023-01-02 13:51:14"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 13:51:22"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:51:22"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 13:52:22"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:52:22"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":294,"messageId":"<4d282cb7-d48f-0d32-3e21-d75af5fb3ae3@localhost>","messageSize":606,"messageTime":535,"rejected":[],"response":"250 2.0.0 OK  1672689161 o20-20020a0568080bd400b0036305193c4bsm12430912oik.3 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 13:52:41"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:53:12"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:53:13"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:53:14"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:54:07"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:54:08"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:54:12"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:55:09"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 13:55:10"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":290,"messageId":"<73353462-a2da-f9f4-d86f-250ac7930d0b@localhost>","messageSize":1077,"messageTime":507,"rejected":[],"response":"250 2.0.0 OK  1672689335 m12-20020a9d400c000000b0066e80774203sm14143223ote.43 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 13:55:35"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:56:17"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:56:18"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:56:19"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 13:56:22"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:56:22"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 13:56:36"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 13:56:36"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 13:56:36"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:04:08"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:04:08"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:04:27"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:28:16"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:30:49"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:30:49"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 14:33:42"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 14:33:43"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 14:33:47"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 14:33:48"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:33:52"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 14:34:01"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 14:34:02"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:34:04"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 14:34:13"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 14:34:13"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 14:34:16"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 14:34:17"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:34:19"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:34:50"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:34:50"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 14:35:19"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:35:19"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 14:35:20"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 14:35:38"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 14:35:39"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:35:40"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:35:41"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:35:42"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 14:36:00"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:36:00"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 14:36:01"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:36:01"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:36:02"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:37:15"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:37:15"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:37:58"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:37:59"}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"6394aabeec80ae05a772a8028\" (type string) at path \"_id\" for model \"Product\"","path":"_id","reason":{},"service":"your-service-name","stack":"CastError: Cast to ObjectId failed for value \"6394aabeec80ae05a772a8028\" (type string) at path \"_id\" for model \"Product\"\n    at model.Query.exec (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/mongoose/lib/query.js:4913:21)\n    at model.Query.Query.then (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/mongoose/lib/query.js:5012:15)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","stringValue":"\"6394aabeec80ae05a772a8028\"","timestamp":"2023-01-02 14:37:59","value":"6394aabeec80ae05a772a8028","valueType":"string"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:38:08"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:38:08"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:38:08"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:38:16"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:38:16"}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"6394aabeec80ae05a772a8028\" (type string) at path \"_id\" for model \"Product\"","path":"_id","reason":{},"service":"your-service-name","stack":"CastError: Cast to ObjectId failed for value \"6394aabeec80ae05a772a8028\" (type string) at path \"_id\" for model \"Product\"\n    at model.Query.exec (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/mongoose/lib/query.js:4913:21)\n    at model.Query.Query.then (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/mongoose/lib/query.js:5012:15)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","stringValue":"\"6394aabeec80ae05a772a8028\"","timestamp":"2023-01-02 14:38:16","value":"6394aabeec80ae05a772a8028","valueType":"string"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:38:29"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:38:29"}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"6394aabeec80ae05a772a8028\" (type string) at path \"_id\" for model \"Product\"","path":"_id","reason":{},"service":"your-service-name","stack":"CastError: Cast to ObjectId failed for value \"6394aabeec80ae05a772a8028\" (type string) at path \"_id\" for model \"Product\"\n    at model.Query.exec (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/mongoose/lib/query.js:4913:21)\n    at model.Query.Query.then (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/mongoose/lib/query.js:5012:15)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","stringValue":"\"6394aabeec80ae05a772a8028\"","timestamp":"2023-01-02 14:38:30","value":"6394aabeec80ae05a772a8028","valueType":"string"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:38:36"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:38:36"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:38:37"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:39:26"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:39:27"}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"6394baaeec80ae05a772a8028\" (type string) at path \"_id\" for model \"Product\"","path":"_id","reason":{},"service":"your-service-name","stack":"CastError: Cast to ObjectId failed for value \"6394baaeec80ae05a772a8028\" (type string) at path \"_id\" for model \"Product\"\n    at model.Query.exec (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/mongoose/lib/query.js:4913:21)\n    at model.Query.Query.then (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/mongoose/lib/query.js:5012:15)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","stringValue":"\"6394baaeec80ae05a772a8028\"","timestamp":"2023-01-02 14:39:27","value":"6394baaeec80ae05a772a8028","valueType":"string"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:39:33"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:39:33"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:39:34"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:40:20"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:40:22"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:40:22"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:40:22"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:41:08"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:41:15"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:41:15"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:41:16"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:41:26"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:41:26"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:41:27"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:41:27"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:41:35"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:41:46"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:41:53"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:41:55"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:41:56"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:41:56"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:41:56"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:42:03"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:42:03"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:42:04"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:42:17"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:42:17"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:42:42"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:42:45"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:42:45"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:42:46"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:42:52"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:42:53"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:42:53"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:42:53"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:43:58"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:44:00"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:44:41"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:44:42"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:44:42"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:44:43"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:44:43"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:44:54"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:44:54"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:44:55"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:44:57"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:44:57"}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"6394baaeec80ae05a772a8028\" (type string) at path \"_id\" for model \"Product\"","path":"_id","reason":{},"service":"your-service-name","stack":"CastError: Cast to ObjectId failed for value \"6394baaeec80ae05a772a8028\" (type string) at path \"_id\" for model \"Product\"\n    at model.Query.exec (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/mongoose/lib/query.js:4913:21)\n    at model.Query.Query.then (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/mongoose/lib/query.js:5012:15)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","stringValue":"\"6394baaeec80ae05a772a8028\"","timestamp":"2023-01-02 14:44:58","value":"6394baaeec80ae05a772a8028","valueType":"string"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:45:01"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:45:01"}
+{"level":"warn","message":"Product not found","service":"your-service-name","timestamp":"2023-01-02 14:45:01"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:45:02"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:45:02"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 14:47:58"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 14:48:00"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:02:24"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:02:25"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":405,"messageId":"<3bb60c12-f189-7968-4ab4-86107a23946b@localhost>","messageSize":1108,"messageTime":662,"rejected":[],"response":"250 2.0.0 OK  1672693364 r24-20020a056830135800b006731ecc5bedsm14057334otq.14 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 15:02:44"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:04:35"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:04:36"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:04:39"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:04:40"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:04:40"}
+{"level":"info","message":"Getting cart with id: 63b346722fee43d91a54b8ca","service":"your-service-name","timestamp":"2023-01-02 15:04:42"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:06:12"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:06:12"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":517,"messageId":"<947a4bd6-5074-f49a-016a-7b19ae7e76ca@localhost>","messageSize":1111,"messageTime":523,"rejected":[],"response":"250 2.0.0 OK  1672693605 o13-20020a056870968d00b0014f81d27ce3sm13090730oaq.55 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 15:06:45"}
+{"level":"info","message":"Getting cart with id: undefined","service":"your-service-name","timestamp":"2023-01-02 15:07:02"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:08:10"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:08:11"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:08:11"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:08:14"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:08:14"}
+{"level":"info","message":"Getting cart with id: undefined","service":"your-service-name","timestamp":"2023-01-02 15:08:16"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:10:34"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:10:35"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:10:37"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:11:01"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:11:02"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:11:02"}
+{"level":"info","message":"Getting cart with id: 63b34764477df2382d4dd3ae","service":"your-service-name","timestamp":"2023-01-02 15:11:03"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:11:19"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:11:19"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":327,"messageId":"<963442c5-8f82-2337-8f37-ac99f5470e8f@localhost>","messageSize":1338,"messageTime":551,"rejected":[],"response":"250 2.0.0 OK  1672693904 f19-20020a056830265300b00667d9a866b0sm13887477otu.59 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 15:11:44"}
+{"level":"info","message":"Getting cart with id: 63b3488f2e00edb9ece1ddf7","service":"your-service-name","timestamp":"2023-01-02 15:11:54"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:11:57"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:11:57"}
+{"level":"info","message":"Getting cart with id: 63b3488f2e00edb9ece1ddf7","service":"your-service-name","timestamp":"2023-01-02 15:12:00"}
+{"level":"info","message":"Getting cart with id: 63b3488f2e00edb9ece1ddf7","service":"your-service-name","timestamp":"2023-01-02 15:12:12"}
+{"level":"info","message":"Getting cart with id: 63b3488f2e00edb9ece1ddf7","service":"your-service-name","timestamp":"2023-01-02 15:14:05"}
+{"level":"info","message":"Getting cart with id: 63b3488f2e00edb9ece1ddf7","service":"your-service-name","timestamp":"2023-01-02 15:14:08"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:15:08"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:15:08"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:15:09"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:15:29"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:15:29"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:15:30"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:16:18"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:16:19"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:16:21"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:16:27"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:16:27"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:16:28"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:16:59"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:16:59"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:17:00"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:17:05"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:17:05"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:17:06"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:17:24"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:17:24"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:17:25"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:17:45"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:17:45"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:17:46"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:18:39"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:18:39"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:18:40"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:19:07"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:19:07"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:19:08"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:19:20"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:19:21"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:19:21"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:20:07"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:20:07"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:20:13"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:20:13"}
+{"level":"info","message":{"_id":"63b3488e2e00edb9ece1ddf5","email":"creik@gmail.com","exp":1672697503,"iat":1672693903},"service":"your-service-name","timestamp":"2023-01-02 15:20:16"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:20:30"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:20:30"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:20:31"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:21:02"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:21:03"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:21:04"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:21:36"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:21:37"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:21:37"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:21:52"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:21:52"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:21:53"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:25:25"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:25:25"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:25:26"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:25:35"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:25:35"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:25:36"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:26:34"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:26:35"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:26:37"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:26:45"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:26:45"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:26:46"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:28:32"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:28:33"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:28:38"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:29:52"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:29:53"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:29:55"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:30:35"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:30:35"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:30:35"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:30:43"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:30:43"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:30:52"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:30:52"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:31:01"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:31:02"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:31:02"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:31:06"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:31:06"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError","service":"your-service-name","stack":"JsonWebTokenError: jwt malformed\n    at Object.module.exports [as verify] (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/jsonwebtoken/verify.js:70:17)\n    at VerifyJWT (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/src/utils/verifyJWT.ts:9:25)\n    at Socket.<anonymous> (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/server.ts:60:48)\n    at Socket.emit (node:events:513:28)\n    at Socket.emit (node:domain:489:12)\n    at Socket.emitUntyped (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/socket.io/dist/typed-events.js:69:22)\n    at /Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/socket.io/dist/socket.js:614:39\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2023-01-02 15:31:06"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:31:09"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:31:09"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError","service":"your-service-name","stack":"JsonWebTokenError: jwt malformed\n    at Object.module.exports [as verify] (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/jsonwebtoken/verify.js:70:17)\n    at VerifyJWT (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/src/utils/verifyJWT.ts:9:25)\n    at Socket.<anonymous> (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/server.ts:60:48)\n    at Socket.emit (node:events:513:28)\n    at Socket.emit (node:domain:489:12)\n    at Socket.emitUntyped (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/socket.io/dist/typed-events.js:69:22)\n    at /Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/socket.io/dist/socket.js:614:39\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2023-01-02 15:31:09"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:31:32"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:31:32"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:31:33"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:31:33"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:31:33"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:32:41"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:32:42"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:34:52"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:34:52"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:37:19"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:37:19"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:38:35"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:38:35"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:38:41"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:38:41"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:43:15"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:43:15"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:43:39"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:43:40"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:44:30"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:44:30"}
+{"level":"info","message":"Getting cart with id: 63b3488f2e00edb9ece1ddf7","service":"your-service-name","timestamp":"2023-01-02 15:44:35"}
+{"level":"info","message":{"accepted":["creik@gmail.com","ericgg14@gmail.com"],"envelope":{"from":"","to":["creik@gmail.com","ericgg14@gmail.com"]},"envelopeTime":506,"messageId":"<8c534baf-84a9-f1a7-cb6a-6b2504f824ea@localhost>","messageSize":1215,"messageTime":600,"rejected":[],"response":"250 2.0.0 OK  1672695936 j2-20020a4aab42000000b004cb9100ec7esm10482129oon.18 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 15:45:36"}
+{"level":"info","message":"Getting cart with id: 63b3488f2e00edb9ece1ddf7","service":"your-service-name","timestamp":"2023-01-02 15:45:37"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:46:29"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:46:29"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:46:55"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:46:55"}
+{"level":"info","message":"Getting cart with id: 63b3488f2e00edb9ece1ddf7","service":"your-service-name","timestamp":"2023-01-02 15:47:23"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:48:40"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:48:40"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:48:41"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:48:45"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:48:45"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:50:56"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:50:57"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:50:59"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:52:03"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:52:03"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:52:07"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 15:52:11"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 15:52:12"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:52:13"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 15:52:16"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 15:52:16"}
+{"level":"info","message":"Getting cart with id: 63b3488f2e00edb9ece1ddf7","service":"your-service-name","timestamp":"2023-01-02 15:52:20"}
+{"level":"info","message":{"accepted":["creik@gmail.com","ericgg14@gmail.com"],"envelope":{"from":"","to":["creik@gmail.com","ericgg14@gmail.com"]},"envelopeTime":503,"messageId":"<630b4081-5a71-e5e8-ef36-35c93e638a14@localhost>","messageSize":1341,"messageTime":574,"rejected":[],"response":"250 2.0.0 OK  1672696347 m6-20020a9d7ac6000000b0066cb9069e0bsm14430264otn.42 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 15:52:27"}
+{"level":"info","message":"Getting cart with id: 63b275a77fc5808a6ba80a2c","service":"your-service-name","timestamp":"2023-01-02 15:54:17"}
+{"level":"info","message":{"accepted":["zlgtss@gmail.com","ericgg14@gmail.com"],"envelope":{"from":"","to":["zlgtss@gmail.com","ericgg14@gmail.com"]},"envelopeTime":339,"messageId":"<d9e5b160-1fe8-9eb8-6aaf-07d138fbc492@localhost>","messageSize":1215,"messageTime":606,"rejected":[],"response":"250 2.0.0 OK  1672696464 x61-20020a9d37c3000000b0067066250c57sm13900193otb.30 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 15:54:24"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 17:36:41"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 17:36:43"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 17:40:34"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 17:40:35"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 17:47:56"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 17:47:59"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 17:50:59"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 17:51:02"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 18:42:04"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 18:42:05"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 18:42:05"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 18:43:09"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 18:43:10"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 18:43:10"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 18:43:14"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 18:43:14"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 18:43:15"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 18:44:11"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 18:44:12"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 18:44:13"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 18:44:26"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 18:44:26"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 18:44:50"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 18:44:50"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 18:45:25"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 18:45:25"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 18:45:26"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 18:46:47"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 18:46:48"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 18:46:49"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:00:27"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:00:28"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:00:33"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:00:37"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:00:38"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:00:40"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:02:30"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:02:31"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:02:34"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:03:04"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:03:04"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:03:05"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:03:13"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:03:13"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:03:13"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:06:22"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:06:23"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:06:26"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:07:06"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:07:07"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:07:07"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:07:38"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:07:39"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:07:40"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:08:07"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:08:07"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:13:44"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:13:45"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:13:47"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:14:07"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:14:07"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:14:07"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:14:45"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:14:46"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:14:46"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:15:07"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:15:08"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:15:10"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:18:00"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:18:00"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:18:01"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:18:57"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:18:58"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:18:59"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:19:24"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:19:25"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:19:26"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:19:29"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:19:29"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:19:31"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:22:56"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:22:57"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:23:26"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:23:27"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:24:21"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:24:22"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:24:23"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:24:24"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:24:25"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:26:37"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:26:38"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:26:38"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:27:09"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:27:10"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:27:10"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:27:10"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:27:11"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:27:23"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:27:23"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:27:24"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:27:24"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:27:24"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:28:08"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 19:28:10"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 19:28:11"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:28:14"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:30:24"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:30:24"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:30:34"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:30:34"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:30:51"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:30:51"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:30:57"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:30:57"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:31:02"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:31:03"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:31:11"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:31:11"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:31:59"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:31:59"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:32:21"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:32:21"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:32:23"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:32:23"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:33:39"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:33:39"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:34:22"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:34:22"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:38:02"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:38:03"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:45:20"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:45:20"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:45:24"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:45:24"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:45:26"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:45:26"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:45:27"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:45:27"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:45:27"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:45:27"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:45:46"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:45:46"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:48:09"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:48:09"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:49:44"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:49:44"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:49:49"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:49:49"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:52:52"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:52:52"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:58:52"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:58:52"}
+{"level":"info","message":"Getting cart with id: 63abeca84dbafbadf6c8e2f5","service":"your-service-name","timestamp":"2023-01-02 19:59:12"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 19:59:32"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 19:59:32"}
+{"level":"info","message":"Getting cart with id: 63abeca84dbafbadf6c8e2f5","service":"your-service-name","timestamp":"2023-01-02 19:59:32"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:00:17"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:00:18"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:01:07"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:01:07"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:01:14"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:01:15"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 20:03:18"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 20:03:19"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:03:19"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":488,"messageId":"<eef0af98-37fe-d85d-b645-ee726dd356f9@localhost>","messageSize":1345,"messageTime":587,"rejected":[],"response":"250 2.0.0 OK  1672711495 a11-20020a056870b14b00b0013d6d924995sm13683899oal.19 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 20:04:55"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:04:57"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 20:05:15"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 20:05:17"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:05:17"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 20:05:18"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 20:05:39"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:05:40"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 20:05:40"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:09:16"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:09:16"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:09:57"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:09:57"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:09:59"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:10:09"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:10:15"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:10:22"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":330,"messageId":"<8e0c83ac-ebdb-a710-8ab4-943291aae70d@localhost>","messageSize":1340,"messageTime":586,"rejected":[],"response":"250 2.0.0 OK  1672711828 r70-20020acaa849000000b00354932bae03sm12541225oie.10 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 20:10:28"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:14:11"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:14:11"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:16:21"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:16:22"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:16:33"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:17:00"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:17:09"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:17:16"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:17:17"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:17:17"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:17:20"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:17:31"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:17:52"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:19:19"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:19:23"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:19:23"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:19:23"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:19:24"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:19:24"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:19:24"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:19:25"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:19:25"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:19:25"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:19:48"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:20:00"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:20:00"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:00"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:20:01"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:20:01"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:01"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:11"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:20:13"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:20:13"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:13"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:23"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:39"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:20:40"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:20:40"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:40"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:20:41"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:20:41"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:41"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:20:42"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:20:42"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:42"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:20:43"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:20:43"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:43"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:50"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:20:51"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:20:51"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:52"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:20:53"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:20:53"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:53"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:20:54"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:20:54"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:54"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:20:54"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:20:54"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:20:55"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:21:00"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:21:00"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:21:00"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:21:01"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:21:01"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:21:01"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:21:01"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:21:02"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:21:02"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:21:03"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:21:03"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:21:03"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:21:04"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:21:04"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:21:04"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:21:24"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:23:31"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:23:44"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":295,"messageId":"<424a400b-e9bc-b64e-2c90-4f6cf0079125@localhost>","messageSize":1335,"messageTime":610,"rejected":[],"response":"250 2.0.0 OK  1672712630 k20-20020a056808069400b0035b80dbf1easm12598347oig.14 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 20:23:50"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:24:06"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:24:06"}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"63b37ed80404ee72e17ecf7\" (type string) at path \"_id\" for model \"Product\"","path":"_id","reason":{},"service":"your-service-name","stack":"CastError: Cast to ObjectId failed for value \"63b37ed80404ee72e17ecf7\" (type string) at path \"_id\" for model \"Product\"\n    at model.Query.exec (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/mongoose/lib/query.js:4913:21)\n    at model.Query.Query.then (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/mongoose/lib/query.js:5012:15)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","stringValue":"\"63b37ed80404ee72e17ecf7\"","timestamp":"2023-01-02 20:24:06","value":"63b37ed80404ee72e17ecf7","valueType":"string"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:24:10"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:24:10"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 20:25:58"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:25:59"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 20:25:59"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 20:26:59"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:27:00"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 20:27:00"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 20:27:32"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 20:27:32"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:27:34"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 20:27:40"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 20:27:41"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:27:45"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 20:32:19"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:32:19"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 20:32:20"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 20:34:35"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:34:35"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 20:34:36"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:34:38"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:35:07"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:35:58"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:36:05"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:36:09"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 20:37:03"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 20:37:04"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:37:04"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:37:06"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:37:07"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:37:07"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:38:08"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:38:28"}
+{"level":"info","message":"Getting cart with id: 63b38d4521e38918c0b1bd08","service":"your-service-name","timestamp":"2023-01-02 20:38:32"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 20:39:55"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 20:39:56"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:39:57"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:39:58"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:39:58"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:40:00"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:40:14"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:40:34"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:40:39"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:40:40"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:40:53"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:40:53"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:40:55"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:40:55"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:41:01"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:41:02"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:41:03"}
+{"level":"info","message":{"accountSid":"AC3a15cb8a90cb20e3236ee3a51f17238f","amount":null,"channel":"sms","dateCreated":"2023-01-03T02:41:17.000Z","dateUpdated":"2023-01-03T02:41:17.000Z","lookup":{"carrier":null},"payee":null,"sendCodeAttempts":[{"attempt_sid":"VLdd2ef91910f0c38a5309c587b0c0c6ba","channel":"sms","time":"2023-01-03T02:41:17.274Z"}],"serviceSid":"VAbc1a4568f70a0bcdec0a87e4278180f4","sid":"VEa4034dd91000f44a66551e5596326a40","status":"pending","to":"+523314069592","url":"https://verify.twilio.com/v2/Services/VAbc1a4568f70a0bcdec0a87e4278180f4/Verifications/VEa4034dd91000f44a66551e5596326a40","valid":false},"service":"your-service-name","timestamp":"2023-01-02 20:41:17"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 20:42:26"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 20:42:27"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:42:32"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":404,"messageId":"<f89240da-5e37-2ace-6239-af7ea19438a5@localhost>","messageSize":1345,"messageTime":614,"rejected":[],"response":"250 2.0.0 OK  1672713760 t8-20020a4aadc8000000b004d7363cdddfsm7967360oon.19 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 20:42:40"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:42:48"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:42:58"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:43:13"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:43:30"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:43:30"}
+{"level":"info","message":{"accountSid":"AC3a15cb8a90cb20e3236ee3a51f17238f","amount":null,"channel":"sms","dateCreated":"2023-01-03T02:44:31.000Z","dateUpdated":"2023-01-03T02:44:31.000Z","lookup":{"carrier":null},"payee":null,"sendCodeAttempts":[{"attempt_sid":"VLf6042e5ca7c6d5c4f70a7698f6518152","channel":"sms","time":"2023-01-03T02:44:31.471Z"}],"serviceSid":"VAbc1a4568f70a0bcdec0a87e4278180f4","sid":"VEd29df570ea92ec2a37f84e3781d7a240","status":"pending","to":"+523314069592","url":"https://verify.twilio.com/v2/Services/VAbc1a4568f70a0bcdec0a87e4278180f4/Verifications/VEd29df570ea92ec2a37f84e3781d7a240","valid":false},"service":"your-service-name","timestamp":"2023-01-02 20:44:31"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":405,"messageId":"<451ad1a4-58e4-45ec-1018-5a74e048227b@localhost>","messageSize":1347,"messageTime":513,"rejected":[],"response":"250 2.0.0 OK  1672713900 y15-20020a056870418f00b00144e18d8525sm13700440oac.25 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 20:45:00"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:45:37"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:45:37"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:46:12"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:46:12"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:46:13"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:46:13"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 20:47:13"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:47:14"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 20:47:14"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:47:14"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:47:14"}
+{"level":"info","message":"Getting cart with id: 63b396ab0e35e65c828f4b86","service":"your-service-name","timestamp":"2023-01-02 20:48:02"}
+{"level":"info","message":"Getting cart with id: 63b396ab0e35e65c828f4b86","service":"your-service-name","timestamp":"2023-01-02 20:48:06"}
+{"level":"info","message":"Getting cart with id: 63b396ab0e35e65c828f4b86","service":"your-service-name","timestamp":"2023-01-02 20:48:13"}
+{"level":"info","message":"Getting cart with id: 63b396ab0e35e65c828f4b86","service":"your-service-name","timestamp":"2023-01-02 20:48:24"}
+{"level":"info","message":{"accepted":["zlgtss@gmail.com","ericgg14@gmail.com"],"envelope":{"from":"","to":["zlgtss@gmail.com","ericgg14@gmail.com"]},"envelopeTime":402,"messageId":"<640966b1-4146-0db5-5356-a879b155d0a8@localhost>","messageSize":1334,"messageTime":614,"rejected":[],"response":"250 2.0.0 OK  1672714109 s20-20020a056870631400b0014be94a12d0sm13698247oao.44 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 20:48:29"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:48:43"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:48:46"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:48:46"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:48:54"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:49:33"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:50:06"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:50:08"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:50:28"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:50:37"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:50:53"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:51:28"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:51:43"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:51:50"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:51:59"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:52:27"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:52:33"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:52:40"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:53:27"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:53:39"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 20:53:41"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 20:53:41"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:53:41"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 20:54:00"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":308,"messageId":"<b2a6143c-00ef-75e4-63d0-73828215f543@localhost>","messageSize":1484,"messageTime":610,"rejected":[],"response":"250 2.0.0 OK  1672714570 bi15-20020a056830378f00b00683e80b5ca7sm10133963otb.38 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 20:56:10"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 21:00:24"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 21:00:24"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 21:00:25"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 21:00:26"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 22:39:38"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 22:46:49"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 22:46:50"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 22:46:51"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 22:51:05"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 22:51:05"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 22:57:29"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 22:57:29"}
+{"code":60200,"level":"error","message":"Invalid parameter `To`: +1234567890","moreInfo":"https://www.twilio.com/docs/errors/60200","service":"your-service-name","stack":"Error: Invalid parameter `To`: +1234567890\n    at success (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/twilio/lib/base/Version.js:135:15)\n    at Promise_then_fulfilled (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/q/q.js:766:44)\n    at Promise_done_fulfilled (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/q/q.js:835:31)\n    at Fulfilled_dispatch [as dispatch] (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/q/q.js:1229:9)\n    at Pending_become_eachMessage_task (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/q/q.js:1369:30)\n    at RawTask.call (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/asap/asap.js:40:19)\n    at flush (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/asap/raw.js:50:29)\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)","status":400,"timestamp":"2023-01-02 22:58:16"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 22:59:28"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 22:59:29"}
+{"code":60200,"level":"error","message":"Invalid parameter `To`: +1234512345","moreInfo":"https://www.twilio.com/docs/errors/60200","service":"your-service-name","stack":"Error: Invalid parameter `To`: +1234512345\n    at success (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/twilio/lib/base/Version.js:135:15)\n    at Promise_then_fulfilled (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/q/q.js:766:44)\n    at Promise_done_fulfilled (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/q/q.js:835:31)\n    at Fulfilled_dispatch [as dispatch] (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/q/q.js:1229:9)\n    at Pending_become_eachMessage_task (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/q/q.js:1369:30)\n    at RawTask.call (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/asap/asap.js:40:19)\n    at flush (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/asap/raw.js:50:29)\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)","status":400,"timestamp":"2023-01-02 22:59:54"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 23:04:07"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 23:04:07"}
+{"level":"info","message":{"accountSid":"AC3a15cb8a90cb20e3236ee3a51f17238f","amount":null,"channel":"sms","dateCreated":"2023-01-03T05:04:41.000Z","dateUpdated":"2023-01-03T05:04:41.000Z","lookup":{"carrier":null},"payee":null,"sendCodeAttempts":[{"attempt_sid":"VLe3b248486cf2276a059f31581285cf64","channel":"sms","time":"2023-01-03T05:04:41.822Z"}],"serviceSid":"VAbc1a4568f70a0bcdec0a87e4278180f4","sid":"VEaf5f8f91905dd019b08dc97212ea36e1","status":"pending","to":"+523314069592","url":"https://verify.twilio.com/v2/Services/VAbc1a4568f70a0bcdec0a87e4278180f4/Verifications/VEaf5f8f91905dd019b08dc97212ea36e1","valid":false},"service":"your-service-name","timestamp":"2023-01-02 23:04:41"}
+{"level":"error","message":"Verification failed","service":"your-service-name","stack":"Error: Verification failed\n    at AuthService.checkVerification (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/src/services/auth.service.ts:90:15)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Strategy._verify (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/src/configs/passport.config.ts:40:35)","timestamp":"2023-01-02 23:05:23"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":401,"messageId":"<be6fad69-a879-e438-6751-effe2a7c2332@localhost>","messageSize":1319,"messageTime":632,"rejected":[],"response":"250 2.0.0 OK  1672722383 n7-20020a4aa7c7000000b004db65419011sm7033691oom.34 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 23:06:23"}
+{"level":"info","message":"Getting cart with id: 63b3b7cd8581ec1bcdddaaf6","service":"your-service-name","timestamp":"2023-01-02 23:06:40"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 23:06:45"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 23:06:45"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 23:07:44"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 23:07:44"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 23:08:18"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 23:08:18"}
+{"level":"error","message":"Invalid password","service":"your-service-name","timestamp":"2023-01-02 23:08:26"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 23:08:40"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 23:08:49"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 23:09:28"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 23:15:06"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 23:15:07"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 23:15:09"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 23:15:14"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 23:15:16"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 23:15:26"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 23:15:37"}
+{"level":"info","message":{"accepted":["ericgg14@gmail.com"],"envelope":{"from":"","to":["ericgg14@gmail.com"]},"envelopeTime":402,"messageId":"<b2ab364c-2526-82dd-43fc-247e69785ee7@localhost>","messageSize":1338,"messageTime":613,"rejected":[],"response":"250 2.0.0 OK  1672722946 y65-20020a4a4544000000b004a0cb488f14sm12021811ooa.23 - gsmtp"},"service":"your-service-name","timestamp":"2023-01-02 23:15:46"}
+{"level":"info","message":"Getting cart with id: 63b3961e0e35e65c828f4b45","service":"your-service-name","timestamp":"2023-01-02 23:15:54"}
+{"code":60200,"level":"error","message":"Invalid parameter `To`: ++11234567890","moreInfo":"https://www.twilio.com/docs/errors/60200","service":"your-service-name","stack":"Error: Invalid parameter `To`: ++11234567890\n    at success (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/twilio/lib/base/Version.js:135:15)\n    at Promise_then_fulfilled (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/q/q.js:766:44)\n    at Promise_done_fulfilled (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/q/q.js:835:31)\n    at Fulfilled_dispatch [as dispatch] (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/q/q.js:1229:9)\n    at Pending_become_eachMessage_task (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/q/q.js:1369:30)\n    at RawTask.call (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/asap/asap.js:40:19)\n    at flush (/Users/ericgoodgame/Documents/Projects/Node/Final Project/server/node_modules/asap/raw.js:50:29)\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)","status":400,"timestamp":"2023-01-02 23:17:10"}
+{"level":"info","message":"Server is running on port 8080","service":"your-service-name","timestamp":"2023-01-02 23:27:30"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 23:27:30"}
+{"level":"info","message":"MongoDB connected","service":"your-service-name","timestamp":"2023-01-02 23:27:30"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 23:27:34"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 23:27:35"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 23:27:50"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 23:27:50"}
+{"level":"info","message":"user disconnected","service":"your-service-name","timestamp":"2023-01-02 23:30:07"}
+{"level":"info","message":"a user connected","service":"your-service-name","timestamp":"2023-01-02 23:30:10"}
