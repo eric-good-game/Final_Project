@@ -12,12 +12,17 @@ class OrderController {
     this.getOrderById = this.getOrderById.bind(this);
   }
   async createOrder(req: Request, res: Response) {
-    const { address, shipping, cartId } = req.body;
-    const order = await this.#orderService.createOrder(cartId, req.user, {
-      address,
-      shipping,
-    });
-    res.status(201).json({ order });
+    try {
+      const { address, shipping, cartId } = req.body;
+      const order = await this.#orderService.createOrder(cartId, req.user, {
+        address,
+        shipping,
+      });
+      res.status(201).json({ order });
+    } catch (err) {
+      logger.error(err);
+      res.status(500).json({ message: 'Internal server error' });
+    }
   }
   async getAllOrders(req: Request, res: Response) {
     try {
