@@ -1,9 +1,29 @@
 import cartDao from '../daos/mongodb/cart.dao';
+import Cart from '../models/cart.model';
+import logger from '../utils/logger';
 
 class CartService {
   #cartDao = cartDao;
 
   async getById(id: string): Promise<any> {
+    try {
+      const cart = await this.#cartDao.getById(id);
+      let edit = false;
+      cart.products = cart.products.filter((item: CartItem) => {
+        if (!item.product) {
+          edit = true;
+          cart.total_products -= item.quantity;
+          return false;
+        }
+        return true;
+      });
+      if (edit && cart instanceof Cart) {
+        await cart.save();
+      }
+      return cart;
+    } catch (err) {
+      logger.error(err);
+    }
     return this.#cartDao.getById(id);
   }
   async create(userId: string): Promise<any> {
